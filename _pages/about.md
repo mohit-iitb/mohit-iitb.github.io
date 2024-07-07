@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 I am a Research Engineer at Ola, specializing in the perception aspect of self-driving cars. I hold a Master's degree in Communication & Signal Processing from IIT Bombay, with expertise in Deep Learning, Algorithms, and Wireless Networks. With a passion for leveraging technology to make a positive impact, I am dedicated to contributing to the advancement of the technology industry. 
 
 My subjects of interest are Mathematics, Machine Learning, Deep Learning, and Statistics. With applications in Wireless communications, Artificial intelligence, and Decision making.
-
-<!-- Apart from academics, I love to travel. Also i enjoy watching TV series, cricket and I like to play badminton and table tennis. -->
+Apart from academics, I love to travel. Also i enjoy watching TV series, cricket and I like to play badminton and table tennis. 
 Apart from academics, I have a strong passion for traveling and exploring new places. In my leisure time, I find joy in watching TV series and following cricket. I also actively engage in playing badminton and table tennis, as they help me stay active and maintain a healthy lifestyle.
+-->
+
+
+I am a Research Engineer at Krutrim AI, specializing in vision and robotics, with a focus on the perception aspect of autonomous systems. Previously, I worked at Ola, contributing to the advancement of self-driving car technologies. I hold a Master’s degree in Communication & Signal Processing from IIT Bombay, specializing in Deep Learning, Algorithms, and Wireless Networks.
+
+My expertise lies in Mathematics, Machine Learning, Deep Learning, and Statistics, applied to fields such as Wireless Communications, Artificial Intelligence, and Decision Making. Passionate about leveraging technology for positive impact, I am dedicated to advancing the technology industry through innovative solutions.
+
+Beyond work, I have a strong passion for traveling and exploring new places. In my leisure time, I enjoy watching TV series and following cricket. I also actively engage in playing badminton and table tennis to stay active and maintain a healthy lifestyle.
 
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->
