@@ -28,9 +28,9 @@ Apart from academics, I have a strong passion for traveling and exploring new pl
 
 <!-- [Resume]({{ site.url }}/files/ML_resume_mohit.pdf)(long) -->
 <!-- [Resume]({{ site.url }}/files/final_resume_offcampus.pdf)(long) -->
-[Resume]({{ site.url }}/files/Mohit_Agarwala_Research_Engineer.pdf)
+[Resume]({{ site.url }}/files/Mohit_Agarwala_Resume.pdf)
 
-(Updated January 2023)
+(Updated June 2024)
 
 
 <!-- For more details, [Resume](https://mohit-iitb.github.io/cv/), [PDF](https://www.overleaf.com/read/mzcjycttqgdq)
