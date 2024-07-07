@@ -23,6 +23,8 @@ My expertise lies in Mathematics, Machine Learning, Deep Learning, and Statistic
 
 Beyond work, I have a strong passion for traveling and exploring new places. In my leisure time, I enjoy watching TV series and following cricket. I also actively engage in playing badminton and table tennis to stay active and maintain a healthy lifestyle.
 
+More about me : [Linkedin](https://www.linkedin.com/in/mohit-iitb/)
+
 <!-- [Resume draft 2.0](http://mohit-iitb.github.io/files/19307R004-4.pdf) \\ -->
 <!-- [Resume draft 1.0](http://mohit-iitb.github.io/files/mohit_wireless_2page.pdf) \\ -->
 <!-- [Resume-Wireless](http://mohit-iitb.github.io/files/19307R004-wireless_9aug.pdf) <br>
